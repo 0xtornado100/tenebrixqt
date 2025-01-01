@@ -1,1 +1,1 @@
-Lebowskiscoinv2 qt and miner files
+Tenebrixcoinv2 qt and miner files
